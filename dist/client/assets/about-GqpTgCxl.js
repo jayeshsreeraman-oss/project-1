@@ -1,0 +1,1 @@
+import{t as e}from"./InformationPage-Nccxp6EN.js";import{t}from"./index-DBICZ9EP.js";var n=t(),r=()=>(0,n.jsx)(e,{});export{r as component};

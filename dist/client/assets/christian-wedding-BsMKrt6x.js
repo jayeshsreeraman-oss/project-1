@@ -1,0 +1,1 @@
+import{t as e}from"./WeddingPage-Cx1vHyKM.js";import{t}from"./index-DBICZ9EP.js";var n=t(),r=()=>(0,n.jsx)(e,{index:2});export{r as component};

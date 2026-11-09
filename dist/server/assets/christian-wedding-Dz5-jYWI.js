@@ -1,0 +1,5 @@
+import { t as WeddingPage } from "./WeddingPage-CK3MZPHT.js";
+import { jsx } from "react/jsx-runtime";
+// src/routes/christian-wedding.tsx?tsr-split=component
+var SplitComponent = () => /* @__PURE__ */ jsx(WeddingPage, { index: 2 });
+export { SplitComponent as component };
